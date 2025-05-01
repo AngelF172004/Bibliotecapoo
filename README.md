@@ -4,8 +4,11 @@ Paradigmas de programación
 
 
 Cortes Santos Daniel Enrique 
+
 Moran Hernandez Angel Fernando 
+
 Fragoso Manjarrez Edson 
+
 Vázquez Villagrán Jorge Eduardo 
 
 Link Github:
