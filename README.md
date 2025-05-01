@@ -18,6 +18,7 @@ Link Planner:
 https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fentity%2Fcom.microsoft.teamspace.tab.planner%2Fmytasks%3FtenantId%3Df94bf4d9-8097-4794-adf6-a5466ca28563%26webUrl%3Dhttps%253A%252F%252Ftasks.teams.microsoft.com%252Fteamsui%252FpersonalApp%252Falltasklists%26context%3D%257B%2522subEntityId%2522%253A%2522%252Fv1%252Fplan%252FHjG5cYdfN0aMUTDZkpEjy2QAEuKo%2522%257D&type=entity&deeplinkId=ede7a8ff-a8c4-4d81-8559-a2914cc35271&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
 
 Capturas del Planner:
+![image](https://github.com/user-attachments/assets/1773e78a-39fb-4b9a-8fa8-28fc2fde5191)
 
 
 Archivo .jar:
